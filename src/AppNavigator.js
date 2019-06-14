@@ -26,7 +26,7 @@ const AppNavigator = createStackNavigator(
     navigationOptions: {
       headerVisible: false,
     },
-    initialRouteName: 'Kegiatan',
+    initialRouteName: 'Login',
   }
 );
 
